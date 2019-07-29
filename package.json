@@ -1,7 +1,7 @@
 {
-  "name": "firefly-dialog-mixin",
+  "name": "aspen-dialog-mixin",
   "description": "This behavior is implemented by all dialogs",
-  "main": "firefly-dialog-mixin.js",
+  "main": "aspen-dialog-mixin.js",
   "dependencies": {
     "@polymer/polymer": "^3.0.0"
   },

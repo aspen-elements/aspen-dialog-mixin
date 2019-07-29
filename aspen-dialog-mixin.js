@@ -1,10 +1,10 @@
 /**
  * This behavior is implemented by all dialogs.
  *
- * @polymerMixin FireflyDialogMixin
+ * @polymerMixin AspenDialogMixin
  * @mixinFunction
  */
-export const FireflyDialogMixin = superclass =>
+export const AspenDialogMixin = superclass =>
   class extends superclass {
     // constructor(){
     // 	super();

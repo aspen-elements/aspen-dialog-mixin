@@ -1,4 +1,4 @@
-# \<firefly-dialog-mixin\>
+# \<aspen-dialog-mixin\>
 
 This behavior is implemented by all dialogs
 
